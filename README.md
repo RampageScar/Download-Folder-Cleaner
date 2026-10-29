@@ -1,4 +1,4 @@
-# Download Cleaner
+# Download Folder Cleaner
 A Python utility to organize and clean up your Downloads folder through an interactive terminal menu.
 Download Cleaner helps you sort files, identify large files, and review old archives without automatically deleting files in the background.
 
