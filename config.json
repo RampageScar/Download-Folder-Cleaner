@@ -1,0 +1,147 @@
+{
+  "downloads_path": "AUTO",
+  "large_file_mb": 1024,
+  "old_archive_days": 15,
+  "archive_extensions": [
+    ".zip",
+    ".rar",
+    ".7z",
+    ".tar",
+    ".gz",
+    ".tgz",
+    ".exe",
+    ".msi"
+  ],
+  "skip_extensions": [
+    ".crdownload",
+    ".part",
+    ".tmp",
+    ".download"
+  ],
+  "categories": {
+    "Documents": [
+      ".pdf",
+      ".doc",
+      ".docx",
+      ".txt",
+      ".xls",
+      ".xlsx",
+      ".ppt",
+      ".pptx",
+      ".csv"
+    ],
+    "Images": [
+      ".jpg",
+      ".jpeg",
+      ".png",
+      ".gif",
+      ".bmp",
+      ".webp",
+      ".svg"
+    ],
+    "Videos": [
+      ".mp4",
+      ".mkv",
+      ".mov",
+      ".avi",
+      ".webm"
+    ],
+    "Audio": [
+      ".mp3",
+      ".wav",
+      ".flac",
+      ".m4a"
+    ],
+    "Archives": [
+      ".zip",
+      ".rar",
+      ".7z",
+      ".tar",
+      ".gz",
+      ".tgz"
+    ],
+    "Installers": [
+      ".exe",
+      ".msi"
+    ],
+    "Code": [
+      ".py",
+      ".ps1",
+      ".bat",
+      ".cmd",
+      ".sh",
+      ".js",
+      ".ts",
+      ".java",
+      ".c",
+      ".cpp",
+      ".h",
+      ".html",
+      ".css",
+      ".json",
+      ".xml",
+      ".yaml",
+      ".yml",
+      ".md"
+    ]
+  },
+  "category_folders": {
+    "Images": "Images",
+    "Videos": "Videos",
+    "Archives": "Archives",
+    "Installers": "Installers"
+  },
+  "top_level_names_used": [
+    "Images",
+    "Videos",
+    "Archives",
+    "Installers"
+  ],
+  "catch_all_folder": "Others",
+  "ignore_list": {
+    "ea4d382d76597772662f6b773005227330fcaf3b3cc787d067ca7bb7ceb7dde1": {
+      "name": "The Witcher Perfect Blood Mod Fix-258-v1-0.rar",
+      "added_on": "2026-09-10"
+    },
+    "9af2ad257b6524dfda97acf518e7cba6073dd517f11e2501a375018a3854efa5": {
+      "name": "Adhaar.zip",
+      "added_on": "2026-09-10"
+    },
+    "d901110dc4be793a05f6cac0a42f0ea7c322041e9c4544fb35702d7326e9dbde": {
+      "name": "hwi_845_5955.zip",
+      "added_on": "2026-09-10"
+    },
+    "51f034ffb55914a8a561cbd6cbca31d117bbc610f02754342d6a08e3b299ecf1": {
+      "name": "[Guru3D]-DDU.zip",
+      "added_on": "2026-09-10"
+    },
+    "a6c8e2cb6d78e979de0294a34327474604c012f301f60bcc467452d461b5edb6": {
+      "name": "9141P17_q_image.tgz",
+      "added_on": "2026-09-10"
+    },
+    "d3ea52e7b6e968de0d884df1288193596fa95b803db4f92a18279a7398004475": {
+      "name": "dateutil-zoneinfo.tar.gz",
+      "added_on": "2026-09-10"
+    },
+    "11f43e5fbd0a9078010055f6a483dc09497830d3f564d44e697394ef9bdd8aa3": {
+      "name": "generator_pcg64_np121.pkl.gz",
+      "added_on": "2026-09-10"
+    },
+    "7cdf1d78d5715fe1c42c0d5e219df691db58bdce21c0ac9aeb0bf4d0625e1f46": {
+      "name": "generator_pcg64_np126.pkl.gz",
+      "added_on": "2026-09-10"
+    },
+    "3156b5ca5172ec350f81404afa821e292755978518122377019ec6dec773cdac": {
+      "name": "sfc64_np126.pkl.gz",
+      "added_on": "2026-09-10"
+    },
+    "4c02ff78f3aecd3ae3361f1b9153e87e9a3f439bf589bdb66e1260d03df5ad1b": {
+      "name": "NetApp.ONTAP.zip",
+      "added_on": "2026-09-10"
+    },
+    "ff9d84898ad9ec6800143e9edb52fbdb6b04555e064e5524c12fc7caf5c1bcde": {
+      "name": "Birthday.zip",
+      "added_on": "2026-09-10"
+    }
+  }
+}
